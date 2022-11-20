@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: The difference in sorting time between the sorted and reversed file is noticable. The time it took to sort the reversed file is close to selection sort.
+
+sort2 uses: Merge sort
+
+How do you know?: It took the shortest time to sort the reversed file, and the sorting time for both reversed and sorted files are roughly the same.
+
+sort3 uses: Selection sort
+
+How do you know?: It took the longest time to sort the sorted file, and the sorting time for both sorted and reversed files are roughly the same.
